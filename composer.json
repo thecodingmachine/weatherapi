@@ -1,6 +1,7 @@
 {
   "name": "thecodingmachine/weatherapi",
   "description": "This project is a demo containing a wrapper around OpenWeatherMap API. Don't use in production.",
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "TheCodingMachine\\WeatherApi\\" : "src/"
